@@ -1,5 +1,5 @@
 # Hind-Rectifiers-9kW-SMPS
-9kW DC-DC Converter
+9kW Current-Fed DC-DC Converter
 
 This project consists of a current fed converter.
 Consider an H-Bridge converter where the duty cycle of the bottom switches is kept at constant 50% while the duty cycle of the top switches is varied between 50% to 70%.
